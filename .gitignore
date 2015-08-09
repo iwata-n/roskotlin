@@ -1,0 +1,7 @@
+build/
+devel/
+.idea
+.gradle
+
+*.swp
+*.jar
